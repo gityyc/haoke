@@ -1,0 +1,7 @@
+com\haoke\dubbo\server\DubboProvider.class
+com\haoke\dubbo\server\mapper\HouseResourcesMapper.class
+com\haoke\dubbo\server\config\MybatisConfig.class
+com\haoke\dubbo\server\service\impl\HouseResourcesServiceImpl.class
+com\haoke\dubbo\server\api\ApiHouseResourcesServiceImpl.class
+com\haoke\dubbo\server\service\impl\BaseServiceImpl.class
+com\haoke\dubbo\server\service\HouseResourcesService.class
